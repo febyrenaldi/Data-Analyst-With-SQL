@@ -12,5 +12,4 @@ In this interactive SQL track, you'll learn the fundamentals of database design 
 
 Working with real-world datasets, gain the SQL skills you need to query a database, analyze results, and effectively communicate your insights to stakeholders. 
 
-
 There’s no prior SQL knowledge required—start your journey to becoming a confident data analyst. Enjoy to learn :)
