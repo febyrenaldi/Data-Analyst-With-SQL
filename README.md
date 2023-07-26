@@ -8,4 +8,6 @@ Just like you wouldn't build a house without a blueprint, you need to plan how y
 4. Join tables and apply filters and sub-queries
 5. Write functions to explore and manipulate data
 
-Working with real-world datasets, gain the SQL skills you need to query a database, analyze results, and effectively communicate your insights to stakeholders. There’s no prior SQL knowledge required—start your journey to becoming a confident data analyst. Enjoy to learn :)
+Working with real-world datasets, gain the SQL skills you need to query a database, analyze results, and effectively communicate your insights to stakeholders. 
+
+There’s no prior SQL knowledge required—start your journey to becoming a confident data analyst. Enjoy to learn :)
